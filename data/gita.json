@@ -1,0 +1,28 @@
+{
+  "id":"bhagavad-gita",
+  "title":"Bhagavad Gita",
+  "language":"Sanskrit",
+  "chapters":[
+    {"number":1,"title":"Arjuna Vishada Yoga","passages":[]},
+    {"number":2,"title":"Sankhya Yoga","passages":[
+      {"id":"2.20","source":"Bhagavad Gita 2.20","sanskrit":"न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः ।","simpleMeaning":"The teaching describes the Self as not being born or destroyed."},
+      {"id":"2.47","source":"Bhagavad Gita 2.47","sanskrit":"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।","simpleMeaning":"Focus on your action and responsibility rather than becoming attached to the result."}
+    ]},
+    {"number":3,"title":"Karma Yoga","passages":[]},
+    {"number":4,"title":"Jnana Karma Sannyasa Yoga","passages":[]},
+    {"number":5,"title":"Karma Sannyasa Yoga","passages":[]},
+    {"number":6,"title":"Dhyana Yoga","passages":[]},
+    {"number":7,"title":"Jnana Vijnana Yoga","passages":[]},
+    {"number":8,"title":"Akshara Brahma Yoga","passages":[]},
+    {"number":9,"title":"Raja Vidya Raja Guhya Yoga","passages":[]},
+    {"number":10,"title":"Vibhuti Yoga","passages":[]},
+    {"number":11,"title":"Vishvarupa Darshana Yoga","passages":[]},
+    {"number":12,"title":"Bhakti Yoga","passages":[]},
+    {"number":13,"title":"Kshetra Kshetrajna Vibhaga Yoga","passages":[]},
+    {"number":14,"title":"Gunatraya Vibhaga Yoga","passages":[]},
+    {"number":15,"title":"Purushottama Yoga","passages":[]},
+    {"number":16,"title":"Daivasura Sampad Vibhaga Yoga","passages":[]},
+    {"number":17,"title":"Shraddhatraya Vibhaga Yoga","passages":[]},
+    {"number":18,"title":"Moksha Sannyasa Yoga","passages":[]}
+  ]
+}
